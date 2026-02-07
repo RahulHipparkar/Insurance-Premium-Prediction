@@ -1,0 +1,11 @@
+artifact_location: file:///Users/rahulhipparkar/Desktop/MS Data Science/Projects/Machine
+  Learning/Insurance Premium Prediction/Insurance-Premium-Prediction/mlruns/619644230268117697/models/m-9545938a92204fd799b769517557004a/artifacts
+creation_timestamp: 1770488266815
+experiment_id: '619644230268117697'
+last_updated_timestamp: 1770488268323
+model_id: m-9545938a92204fd799b769517557004a
+model_type: null
+name: model
+source_run_id: 6263c4c7864448f289d6f93834466cbf
+status: 2
+status_message: null

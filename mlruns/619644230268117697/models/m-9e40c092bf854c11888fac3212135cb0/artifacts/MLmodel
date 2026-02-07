@@ -1,0 +1,24 @@
+artifact_path: file:///Users/rahulhipparkar/Desktop/MS Data Science/Projects/Machine
+  Learning/Insurance Premium Prediction/Insurance-Premium-Prediction/mlruns/619644230268117697/models/m-9e40c092bf854c11888fac3212135cb0/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.9.0
+model_id: m-9e40c092bf854c11888fac3212135cb0
+model_size_bytes: 103073
+model_uuid: m-9e40c092bf854c11888fac3212135cb0
+prompts: null
+run_id: fc9aaaa1f16e4c77a41c4a477675f9db
+utc_time_created: '2026-02-07 18:16:23.347813'
