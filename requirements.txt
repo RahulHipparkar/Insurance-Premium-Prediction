@@ -1,0 +1,15 @@
+numpy==2.3.3
+pandas 
+scikit-learn 
+seaborn
+plotly 
+lightgbm 
+optuna 
+mlflow
+fastapi 
+pydantic
+uvicorn
+joblib
+streamlit
+nbformat>=4.2.0
+shap

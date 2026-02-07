@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rahulhipparkar/Desktop/MS Data Science/Projects/Machine
+  Learning/Insurance Premium Prediction/Insurance-Premium-Prediction/notebooks/mlruns/880565254641232423/c15a7aa2dbd04d2e9653037ce8c618c2/artifacts
+end_time: 1770487303187
+entry_point_name: ''
+experiment_id: '880565254641232423'
+lifecycle_stage: active
+run_id: c15a7aa2dbd04d2e9653037ce8c618c2
+run_name: trial 33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770487299851
+status: 3
+tags: []
+user_id: rahulhipparkar
