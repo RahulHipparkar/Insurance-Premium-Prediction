@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
-st.set_page_config(page_title="Insurance Premium Predictor", page_icon="💳", layout="centered")
-st.markdown("<h1 style='text-align: center;'>Insurance Premium Prediction</h1>", unsafe_allow_html=True)
+st.set_page_config(page_title="SmartInsure", page_icon="💳", layout="centered")
+st.markdown("<h1 style='text-align: center;'>SmartInsure</h1>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: center;'>Fill in the details below to estimate premium price.</p>", unsafe_allow_html=True)
 
 FASTAPI_URL = "http://127.0.0.1:8000/predict"
